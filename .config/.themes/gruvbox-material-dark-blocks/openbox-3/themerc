@@ -34,7 +34,6 @@ menu.separator.padding.height: 6
 # Active window
 window.active.border.color: #1d2021
 
-
 window.active.title.bg: flat solid
 window.active.title.bg.color: #1d2021
 window.active.title.separator.color: #1d2021

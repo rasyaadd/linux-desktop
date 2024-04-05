@@ -16,6 +16,9 @@
             </action> </item>
         </menu>
         <menu id="2" label="Editors">
+            <item label="AA Fire"> <action name="Execute">
+                <execute>alacritty -e aafire -driver slang</execute>
+            </action> </item>
             <item label="Nano"> <action name="Execute">
                 <execute>alacritty -e nano</execute>
             </action> </item>
@@ -36,8 +39,14 @@
             </action> </item>
         </menu>
         <menu id="6" label="Graphics">
+            <item label="GNU Image Manipulation Program"> <action name="Execute">
+                <execute>gimp-2.10</execute>
+            </action> </item>
             <item label="LibreOffice Draw"> <action name="Execute">
                 <execute>libreoffice --draw</execute>
+            </action> </item>
+            <item label="The GIMP"> <action name="Execute">
+                <execute>gimp</execute>
             </action> </item>
         </menu>
         <menu id="7" label="Multimedia">
