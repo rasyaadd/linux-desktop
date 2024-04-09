@@ -1,0 +1,11 @@
+{
+	"theme": "Gruvbox Material Dark.sublime-theme",
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage",
+	],
+	"color_scheme": "Gruvbox Material Dark.sublime-color-scheme",
+	"font_face": "Monaco",
+	"font_size": 10,
+}
